@@ -1,5 +1,4 @@
-### Odoo Training for No-Code Developers (With Detailed Steps)
-
+### Odoo Training for No-Code Developers
 This training is designed for **no-code developers** to help them create, customize, and automate processes in Odoo without writing any code. You'll learn how to use Odoo Studio and other built-in features, enabling you to effectively tailor Odoo to fit business needs.
 
 ---
